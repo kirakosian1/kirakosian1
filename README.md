@@ -1,5 +1,4 @@
-### 
-<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+### <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 :space_invader: My name is Stepan
   <br />
 :sunglasses: I’m a frontend developer 
